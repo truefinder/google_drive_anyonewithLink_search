@@ -1,13 +1,13 @@
-# anyoneWithLink_GoogleDriveSearch
+# google_drive_anywonwithLink_search
 Googleドライブからリンクがあれば誰でも見れるファイルを探し出してくれるGoogle App Script
-
+社内のGoogle Drive内に公開ドライブで意図せずpublicになったファイルを検知する目的で有用
 
 ## 機能
 
 - Google Drive 上の特定フォルダーおよびフォルダーリストから"リンクを知っていれば誰でも見れる公開状態のファイル"をまとめてくれる機能
 - 単体のフォルダーの中にある全てのファイル検索 OnlyOne()
 - フォルダーリストを巡回してくれる AllRound()
-- 結果をcsvにまとめてくれる
+- 結果csvファイルをを自分のドライブ内にまとめて格納
   
 
 ## INSTALL（インストール手順）
